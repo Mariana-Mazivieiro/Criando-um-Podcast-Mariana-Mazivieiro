@@ -1,6 +1,7 @@
 # Projeto Podcast Gerado por I.A.s
 
 Título: SegurAI - A Revolução Digital no Mercado de Seguros
+
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhados.
 
 Utilizada uma esteira de prompts para gerar cada etapa do processo criativo.
